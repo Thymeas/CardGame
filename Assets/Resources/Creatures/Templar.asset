@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e206fc57f453a42b932de9e94caabf, type: 3}
+  m_Name: Templar
+  m_EditorClassIdentifier: 
+  CharacterAsset: {fileID: 0}
+  Description: Battlecry - Deal 1 damage to your opponent
+  Tags: 
+  Rarity: 1
+  CardImage: {fileID: 21300000, guid: 90ef6b7835131a34292d2d8f5e986031, type: 3}
+  ManaCost: 2
+  TokenCard: 0
+  OverrideLimitOfThisCardInDeck: -1
+  TypeOfCard: 0
+  MaxHealth: 3
+  Attack: 2
+  AttacksForOneTurn: 1
+  Charge: 0
+  Taunt: 0
+  CreatureScriptName: DamageOpponentBattlecry
+  SpecialCreatureAmount: 0
+  SpellScriptName: 
+  SpecialSpellAmount: 0
+  Targets: 0
