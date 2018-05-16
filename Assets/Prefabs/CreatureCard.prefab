@@ -1073,7 +1073,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e90d888d01c90e42aeebd9bef8befce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0.5
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
   m_circleCount: 6
@@ -2064,7 +2068,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e90d888d01c90e42aeebd9bef8befce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0.5
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
   m_circleCount: 6
@@ -2141,7 +2149,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e90d888d01c90e42aeebd9bef8befce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0.5
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
   m_circleCount: 6
@@ -2258,7 +2270,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e90d888d01c90e42aeebd9bef8befce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0.5
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
   m_circleCount: 6
@@ -2335,7 +2351,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e90d888d01c90e42aeebd9bef8befce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0.5
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
   m_circleCount: 6
@@ -2439,7 +2459,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e90d888d01c90e42aeebd9bef8befce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0.5
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
   m_circleCount: 6

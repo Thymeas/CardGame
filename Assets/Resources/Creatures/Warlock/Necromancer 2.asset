@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Necromancer 2
   m_EditorClassIdentifier: 
   CharacterAsset: {fileID: 11400000, guid: 19c569ae010d09b4c8717cfcb8988269, type: 2}
-  Description: Windfury - Can atack twice a turn
+  Description: Draw A Card
   Tags: 
   Rarity: 1
   CardImage: {fileID: 21300000, guid: f4799a33dd7a06e4c994cc416158494f, type: 3}
@@ -25,7 +25,7 @@ MonoBehaviour:
   AttacksForOneTurn: 2
   Charge: 0
   Taunt: 0
-  CreatureScriptName: 
+  CreatureScriptName: DrawACard
   SpecialCreatureAmount: 0
   SpellScriptName: 
   SpecialSpellAmount: 0
